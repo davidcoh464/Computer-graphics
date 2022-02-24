@@ -21,6 +21,6 @@ each light has a different realization. On the resulting image.
 
 In the renderer package we get to the final production of the image: 
 The camera class sends the ray of each pixel to Ray Tracer and checks its 
-cut with some geometric shape in the 3D spaceand defines its color accordingly,
+cut with some geometric shape in the 3D space and defines its color accordingly,
  there is also a calculation to check if there is a shadow of another shape and also
  adds to the color of the shape The existing lights in his environment
