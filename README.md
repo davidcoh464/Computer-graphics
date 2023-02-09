@@ -1,7 +1,7 @@
 # Computer-graphics
 
 ## The project deals with creating images from geometric shapes
-### it`s based on designing and modeling a virtual 3-dimensional graphical scene, with all the physics involved (light source, rays, reflections, refractions, color, ### occlusions etc.).
+### it`s based on designing and modeling a virtual 3-dimensional graphical scene, with all the physics involved (light source, rays, reflections, refractions, color, occlusions etc.).
 
 
 ### The primitives package contains:
