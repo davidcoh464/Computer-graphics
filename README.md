@@ -19,12 +19,15 @@ Point Light that simulates the light coming from the lamp,
 Spot Light that simulates the light coming from a flashlight,
 each light has a different realization. On the resulting image.
 
-**In the renderer package we get to the final production of the image: **
+
+**In the renderer package we get to the final production of the image:**
 The camera class sends the ray of each pixel to Ray Tracer and checks its 
 intersection with some geometric shape in the 3D space and defines its color accordingly,
  there is also a calculation to check if there is a shadow of another shape and also
  adds to the color of the shape The existing lights in his environment
- 
+
+
 **Sample output images**
-This 
+
+
 ![alt text](https://github.com/davidcoh464/Computer-graphics/blob/master/images/lotsOfShapesBonus.png)
