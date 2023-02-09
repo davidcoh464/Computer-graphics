@@ -25,4 +25,4 @@ cut with some geometric shape in the 3D space and defines its color accordingly,
  there is also a calculation to check if there is a shadow of another shape and also
  adds to the color of the shape The existing lights in his environment
 
-![alt text]([http://url/to/img.png](https://github.com/davidcoh464/Computer-graphics/blob/master/images/lotsOfShapesBonus.png))
+![alt text](https://github.com/davidcoh464/Computer-graphics/blob/master/images/lotsOfShapesBonus.png)
