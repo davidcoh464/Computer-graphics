@@ -1,5 +1,5 @@
 # Computer-graphics
-## The project deals with the design of images by geometric shapes.
+## The project deals with creating images from geometric shapes.
 
 ### The primitives package contains:
 
@@ -33,24 +33,24 @@ intersection with some geometric shape in the 3D space and defines its color acc
 
 ## Sample output images
 
-#### Connected spheres with different radii and colors, and rotated polygons:
+### Connected spheres with different radii and colors, and rotated polygons:
 
 ![alt text](https://github.com/davidcoh464/Computer-graphics/blob/master/images/lotsOfShapesBonus.png)
 
-#### Different levels of transparency:
+### Different levels of transparency:
 
 ![alt text](https://github.com/davidcoh464/Computer-graphics/blob/master/images/diffusedGlass.png)
 
-#### Circles of triangles
+### Circles of triangles
 
 ![alt text](https://github.com/davidcoh464/Computer-graphics/blob/master/images/MultiTrianglesFlat2.png)
 
-#### A mirror with several levels of brightness
+### A mirror with several levels of brightness
 
 ![alt text](https://github.com/davidcoh464/Computer-graphics/blob/master/images/glossySurface.png)
 
 
-#### Teapot from several angles
+### Teapot from several angles
 
 ![alt text](https://github.com/davidcoh464/Computer-graphics/blob/master/images/teapot%20gif.gif)
 
